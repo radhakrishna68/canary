@@ -1,0 +1,5 @@
+template:
+  step:
+    run-test:
+      script: echo test
+      intelligence: {}
